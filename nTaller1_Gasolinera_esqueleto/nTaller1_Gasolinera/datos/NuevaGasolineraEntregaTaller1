@@ -1,0 +1,13 @@
+tipo:G1:567:5432.0
+tipo:G2:2345:35654.0
+tipo:G3:13450:234.0
+tipo:G4:678:654000.0
+surtidor:Carlos:G1:0.0:G2:0.0:G3:0.0:G4:0.0
+surtidor:Juan:G1:0.0:G2:0.0:G3:0.0:G4:0.0
+surtidor:Dianna:G1:0.0:G2:0.0:G3:0.0:G4:0.0
+surtidor:Andres:G1:0.0:G2:0.0:G3:0.0:G4:0.0
+empleado:Andres:0
+empleado:Tomas:0
+empleado:Dianna:0
+empleado:Juan:0
+empleado:Carlos:0
